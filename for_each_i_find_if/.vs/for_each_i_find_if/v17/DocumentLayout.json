@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\79123\\OneDrive\\Desktop\\OOP\\STL\\for_each_i_find_if\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1598635B-DD24-49BE-A802-3F9A522D47EB}|for_each_i_find_if.vcxproj|C:\\Users\\79123\\OneDrive\\Desktop\\OOP\\STL\\for_each_i_find_if\\for_each_i_find_if.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1598635B-DD24-49BE-A802-3F9A522D47EB}|for_each_i_find_if.vcxproj|solutionrelative:for_each_i_find_if.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "for_each_i_find_if.cpp",
+              "DocumentMoniker": "C:\\Users\\79123\\OneDrive\\Desktop\\OOP\\STL\\for_each_i_find_if\\for_each_i_find_if.cpp",
+              "RelativeDocumentMoniker": "for_each_i_find_if.cpp",
+              "ToolTip": "C:\\Users\\79123\\OneDrive\\Desktop\\OOP\\STL\\for_each_i_find_if\\for_each_i_find_if.cpp",
+              "RelativeToolTip": "for_each_i_find_if.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T19:17:17.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
