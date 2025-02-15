@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\79123\\OneDrive\\Desktop\\OOP\\STL\\\u041C\u043D\u043E\u0436\u0435\u0441\u0442\u0432\u0430\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5DD759-CB4C-4076-BA72-AC638AD1ABB3}|\u041C\u043D\u043E\u0436\u0435\u0441\u0442\u0432\u0430.vcxproj|C:\\Users\\79123\\OneDrive\\Desktop\\OOP\\STL\\\u041C\u043D\u043E\u0436\u0435\u0441\u0442\u0432\u0430\\\u041C\u043D\u043E\u0436\u0435\u0441\u0442\u0432\u0430.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E5DD759-CB4C-4076-BA72-AC638AD1ABB3}|\u041C\u043D\u043E\u0436\u0435\u0441\u0442\u0432\u0430.vcxproj|solutionrelative:\u041C\u043D\u043E\u0436\u0435\u0441\u0442\u0432\u0430.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u041C\u043D\u043E\u0436\u0435\u0441\u0442\u0432\u0430.cpp",
+              "DocumentMoniker": "C:\\Users\\79123\\OneDrive\\Desktop\\OOP\\STL\\\u041C\u043D\u043E\u0436\u0435\u0441\u0442\u0432\u0430\\\u041C\u043D\u043E\u0436\u0435\u0441\u0442\u0432\u0430.cpp",
+              "RelativeDocumentMoniker": "\u041C\u043D\u043E\u0436\u0435\u0441\u0442\u0432\u0430.cpp",
+              "ToolTip": "C:\\Users\\79123\\OneDrive\\Desktop\\OOP\\STL\\\u041C\u043D\u043E\u0436\u0435\u0441\u0442\u0432\u0430\\\u041C\u043D\u043E\u0436\u0435\u0441\u0442\u0432\u0430.cpp",
+              "RelativeToolTip": "\u041C\u043D\u043E\u0436\u0435\u0441\u0442\u0432\u0430.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T13:56:36.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
