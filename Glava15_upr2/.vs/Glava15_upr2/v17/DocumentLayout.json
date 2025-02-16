@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\79123\\OneDrive\\Desktop\\OOP\\STL\\Glava15_upr2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39499C8F-E9EB-4F07-98B1-F40AA7163FBD}|Glava15_upr2.vcxproj|C:\\Users\\79123\\OneDrive\\Desktop\\OOP\\STL\\Glava15_upr2\\Glava15_upr2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39499C8F-E9EB-4F07-98B1-F40AA7163FBD}|Glava15_upr2.vcxproj|solutionrelative:Glava15_upr2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Glava15_upr2.cpp",
+              "DocumentMoniker": "C:\\Users\\79123\\OneDrive\\Desktop\\OOP\\STL\\Glava15_upr2\\Glava15_upr2.cpp",
+              "RelativeDocumentMoniker": "Glava15_upr2.cpp",
+              "ToolTip": "C:\\Users\\79123\\OneDrive\\Desktop\\OOP\\STL\\Glava15_upr2\\Glava15_upr2.cpp",
+              "RelativeToolTip": "Glava15_upr2.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-16T00:45:41.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
